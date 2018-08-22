@@ -1,7 +1,7 @@
-## wangcb.cc上的小壁虎们
+## wangcb.com上的小壁虎们
 ### 主用配置(ss):
 ```
-ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.cc:8080#ss.wangcb.cc
+ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
 ```
 使用方法：将上面这串URL导入到客户端内
 
