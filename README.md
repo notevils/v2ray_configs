@@ -1,13 +1,3 @@
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=A65jkJWvGe">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=A65jkJWvGe">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=A65jkJWvGe">
-<link rel="manifest" href="/assets/site.webmanifest?v=A65jkJWvGe">
-<link rel="mask-icon" href="/assets/safari-pinned-tab.svg?v=A65jkJWvGe" color="#5bbad5">
-<link rel="shortcut icon" href="/assets/favicon.ico?v=A65jkJWvGe">
-<meta name="msapplication-TileColor" content="#00aba9">
-<meta name="msapplication-config" content="/assets/browserconfig.xml?v=A65jkJWvGe">
-<meta name="theme-color" content="#ffffff">
-
 ## wangcb.com上的小壁虎们
 ### 主用配置(ss):
 ```
