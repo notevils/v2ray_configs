@@ -24,7 +24,7 @@ ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
     + 配置文件: [client_Dtcp.json](./client_Dtcp.json)
 - 3 基于[mKCP](https://www.v2ray.com/chapter_04/mkcp.html)底层传输的备用配置，此配置可以将网络流量伪装成微信视频聊天。
     + 配置文件: [client_mkcp.json](./client_mkcp.json)
-- 4 基于WebSocket底层传输的备用配置，注意此配置使用了Cloudflare CDN代理，有着较好的穿透性，但也损失了较大性能。
+- 4 基于WebSocket底层传输的备用配置。
     + 配置文件: [client_ws.json](./client_ws.json)
 - 5 基于http底层传输的备用配置。
     + 配置文件: [client_http.json](./client_http.json)
