@@ -19,7 +19,7 @@ ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
 - OS X
   - [https://github.com/shadowsocks/ShadowsocksX-NG/releases](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 - iOS
-  - [Wingy(App Store)](https://itunes.apple.com/us/app/wingy-http-s-socks5-proxy-utility/id1178584911)
+  - [Outline](https://itunes.apple.com/app/outline-app/id1356177741) or [Wingy(App Store)](https://itunes.apple.com/us/app/wingy-http-s-socks5-proxy-utility/id1178584911)
 
 ### 备用配置:
 
