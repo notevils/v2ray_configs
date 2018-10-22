@@ -29,7 +29,7 @@ ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
   - 配置文件: [client_tcp.json](./client_tcp.json)
 - 4 动态tcp端口vmess协议的备用配置。
   - 配置文件: [client_Dtcp.json](./client_Dtcp.json)
-- 3 基于[mKCP](https://www.v2ray.com/chapter_04/mkcp.html)底层传输的备用配置，此配置可以将网络流量伪装成微信视频聊天。
+- 3 基于[mKCP](https://www.v2ray.com/chapter_02/transport/mkcp.html)底层传输的备用配置，此配置可以将网络流量伪装成微信视频聊天。
   - 配置文件: [client_mkcp.json](./client_mkcp.json)
 - 4 基于WebSocket底层传输的备用配置。
   - 配置文件: [client_ws.json](./client_ws.json)
@@ -47,6 +47,6 @@ ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
 - Windows, Linux, OS X
   - [官方v2ray-core](https://github.com/v2ray/v2ray-core/releases)
 - Android
-  - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+  - [v2rayNG](https://github.com/2dust/v2rayNG/releases) or [BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
 - iOS
   - [Shadowrocket(App Store, 付费软件$2.99)](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
