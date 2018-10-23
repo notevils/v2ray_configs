@@ -39,8 +39,8 @@ ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
   - ~~配置文件: [v2ray-heroku.json](./v2ray-heroku.json)~~
 - 7 基于http2底层传输的备用配置。
   - 配置文件: [client_h2.json](./client_h2.json)
-- 8 基于http2底层传输，并通过Cloudflare CDN隧穿的备用配置。
-  - 配置文件: [client_h2_cf.json](./client_h2_cf.json)
+- 8 基于WebSocket+TLS底层传输，并通过Cloudflare CDN隧穿的备用配置。
+  - 配置文件: [client_ws_cf.json](./client_ws_cf.json)
 
 ### v2ray客户端下载:
 
