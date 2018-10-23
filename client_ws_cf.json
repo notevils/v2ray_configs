@@ -22,7 +22,7 @@
             "vnext": [
                 {
                     "address": "ss-cf.wangcb.com",
-                    "port": 8443,
+                    "port": 443,
                     "users": [
                         {
                             "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
@@ -33,8 +33,8 @@
             ]
         },
         "streamSettings": {
-            "network": "h2",
-            "httpSettings": {
+            "network": "ws",
+            "wsSettings": {
                 "path": "/ray"
             },
             "security": "tls"
