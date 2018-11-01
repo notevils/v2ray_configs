@@ -6,7 +6,15 @@
 ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
 ```
 
-使用方法：将上面这串URL导入到客户端内
+使用方法：将上面这串URL导入到客户端内。也可以手动配置:
+```
+{
+"server":"ss.wangcb.com",
+"server_port":8080,
+"password":"CTYDDDDDDBUG",
+"method":"chacha20".
+}
+```
 
 若主用配置无法使用，请去[备用配置](#%E5%A4%87%E7%94%A8%E9%85%8D%E7%BD%AE)。
 
