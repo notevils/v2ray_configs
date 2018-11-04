@@ -43,8 +43,8 @@ ss://Y2hhY2hhMjA6Q1RZREREREREQlVH@ss.wangcb.com:8080#ss.wangcb.com
   - 配置文件: [client_ws.json](./client_ws.json)
 - 5 伪装为http的备用配置。
   - 配置文件: [client_http.json](./client_http.json)
-- ~~6 在heroku上部署的基于TLS加密+WebSocket(wss)底层传输并使用Domain Fronting技术绕过Censorship的备用配置。~~
-  - ~~配置文件: [v2ray-heroku.json](./v2ray-heroku.json)~~
+- 6 在heroku上部署的基于TLS加密+WebSocket(wss)底层传输并使用Domain Fronting技术绕过Censorship的备用配置。
+  - 配置文件: [v2ray-heroku.json](./v2ray-heroku.json)
 - ~~7 基于http2底层传输的备用配置。~~
   - ~~配置文件: [client_h2.json](./client_h2.json)~~
 - 8 基于WebSocket+TLS底层传输，后端经过nginx转发，并通过Cloudflare CDN隧穿的备用配置。
